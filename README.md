@@ -9,7 +9,7 @@ confirme su validez según el algoritmo de Luhn.</p>
 El usuario no debe poder ingresar un campo vacío</p>
 
 ## Diagrama de Flujo:
-![Diagrama de Flujo Tarjeta de Crédito Válida](/assets/docs/Tarjeta de Credito Valida.jpeg "Diagrama de Flujo Tarjeta de Crédito Válida")
+![Diagrama de Flujo Tarjeta de Crédito Válida](/assets/docs/TarjetadeCreditoValida.jpeg "Diagrama de Flujo Tarjeta de Crédito Válida")
 
 ## Explicación del Pseudocódigo:
 <p>Función para encriptar una palabra</p>
@@ -44,7 +44,7 @@ El usuario no debe poder ingresar un campo vacío</p>
      - MOSTRAMOS:('Usted no ingresado su número de tarjeta,Debe ingresar un número')
   - SI NO
      - isValidCard(numberOfTarjetClient):validamos el número de tarjeta
-     
+
 
 * Hacemos un Menú:
   - HACER
